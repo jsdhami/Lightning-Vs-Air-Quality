@@ -1,0 +1,1 @@
+http://202.45.146.139:8001/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aprovince&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8
